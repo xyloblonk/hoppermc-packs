@@ -1,2 +1,3 @@
-# hoppermc-packs
-hoppermc.fun texture packs
+# HopperMC Textures
+
+Texture Packs for HopperMC Minecraft Network
